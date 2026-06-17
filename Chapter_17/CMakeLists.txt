@@ -1,0 +1,3 @@
+project(Chapter_17 CXX)
+add_subdirectory(exercise_17.file_stream_basics)
+add_subdirectory(exercise_17.random_access_file)

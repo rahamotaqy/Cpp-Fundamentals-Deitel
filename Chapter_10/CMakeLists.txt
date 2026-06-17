@@ -1,0 +1,4 @@
+project(Chapter_10 CXX)
+add_subdirectory(exercise_10.7_date_class)
+add_subdirectory(exercise_10.8_savings_account)
+add_subdirectory(exercise_date_and_time)

@@ -1,0 +1,5 @@
+project(Chapter_11 CXX)
+add_subdirectory(exercise_11.array_class)
+add_subdirectory(exercise_11.array_test)
+add_subdirectory(exercise_11.date_test)
+add_subdirectory(exercise_11.string_test)

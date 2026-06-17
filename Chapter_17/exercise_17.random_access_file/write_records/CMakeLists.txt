@@ -1,0 +1,1 @@
+add_executable(exercise_17.random_access_file.write_records main.cpp)
